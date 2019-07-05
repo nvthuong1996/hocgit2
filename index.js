@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEADD
 sdfaaw;
 =======
 sdfaat;
