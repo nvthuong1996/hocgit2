@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <<<<<<< HEADA
+=======
+<<<<<<< HEADD
+>>>>>>> 8559123eecfeac744f0e7a9b61fe4c2361d347ca
 sdfaaw;
 =======
 sdfaat;
